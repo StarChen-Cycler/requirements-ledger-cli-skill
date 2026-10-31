@@ -2,7 +2,7 @@
 .SYNOPSIS
   Install the requirements-ledger-cli skill into an agent skills directory.
 .DESCRIPTION
-  Copies the skill directory (SKILL.md; excludes installer scripts) into <target>\requirements-ledger-cli.
+  Copies the skill resources (excludes installer scripts) into <target>\requirements-ledger-cli.
   Without -Target, probes common skills directories and falls back to
   $HOME\.agents\skills.
 .EXAMPLE
