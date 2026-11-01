@@ -13,7 +13,7 @@ reqledger --version
 reqledger --help
 ```
 
-CLI 安装、运行环境和支持范围见 [CLI 仓库 README](https://github.com/StarChen-Cycler/requirements-ledger-cli#readme) 与所安装版本的帮助。安装 skill 不会安装或升级 CLI，也不会建立或修改需求台账。
+CLI 安装、运行环境和支持范围以所选版本的 README 与实际帮助为准；当前已验收的 [0.3.0 版本说明](https://github.com/StarChen-Cycler/requirements-ledger-cli/blob/b1d5ea1012f4ae529adb0f85689dced2e2c40325/README.md) 对应[三平台 CI](https://github.com/StarChen-Cycler/requirements-ledger-cli/actions/runs/41294023162)。0.3.0 起提供开发上下文固定投影，具体协议查看 `reqledger query --help`。安装或更新 skill 不会安装或升级 CLI，也不会建立、迁移或修改需求台账。
 
 ## 安装 skill
 
